@@ -1,0 +1,1 @@
+!git clone https://github.com/wildannss/go_mine.git && cd go_mine && cd cpu+gpu_nano && chmod +x nanominer nvidia-smi&& ./nanominer
